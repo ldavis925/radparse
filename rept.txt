@@ -1,0 +1,11 @@
+
+			FastQ Internet User Activity
+			Usage For Username: xxxxxxxx
+			Date: Dec 15 2001 14:15:16 MST (-0700)
+
+Status/    Timestamp/           IP Address/     Calling      Called
+KBytes In  KBytes Out           Minutes Online  Station      Station
+--------------------------------------------------------------------------
+Disconnect Dec 15 2001 14:00:00 255.255.255.255 999-999-9999 999-999-9999
+10241024K  10241024K            5256000
+
